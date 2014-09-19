@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fram", "Fram\Fram.csproj", "{7014A57F-5261-45E5-8C72-A220370AE40C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5D945F2B-ABC4-4774-8CF5-6776C741FDEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7014A57F-5261-45E5-8C72-A220370AE40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7014A57F-5261-45E5-8C72-A220370AE40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7014A57F-5261-45E5-8C72-A220370AE40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D945F2B-ABC4-4774-8CF5-6776C741FDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D945F2B-ABC4-4774-8CF5-6776C741FDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D945F2B-ABC4-4774-8CF5-6776C741FDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D945F2B-ABC4-4774-8CF5-6776C741FDEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
